@@ -19,8 +19,8 @@ usuarios.append(Usuario('Usuario', 'Administrador', 'admin', 'admin', 1).toDict(
 usuarios.append(Usuario('William', 'Borrayo', 'William58_0', '1234', 2).toDict())
 
 # comentarios ejemplo
-comentarios.append(Comentario('Super Mario Bros', 'William58_0', 'estuvo bonita0').toDict())
-comentarios.append(Comentario('Super Mario Bros', 'OtroUsuario', 'estuvo horrorosa').toDict())
+comentarios.append(Comentario('2', 'William58_0', 'estuvo bonita').toDict())
+comentarios.append(Comentario('2', 'OtroUsuario', 'estuvo horrorosa').toDict())
 comentarios.append(Comentario('Los vengadores', 'William58_0', 'sensual').toDict())
 comentarios.append(Comentario('Los vengadores', 'OtroUsuario', 'estuvo bonita').toDict())
 
